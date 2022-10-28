@@ -1,0 +1,10 @@
+export const URL = 'https://todoist.com/auth/login';
+export const ADD_BUTTON_SELECTOR = '.plus_add_button';
+export const TASK_TITLE_SELECTOR = '.public-DraftStyleDefault-block.public-DraftStyleDefault-ltr';
+export const TASK_DESCRIPTION_SELECTOR = '.task_editor__description_field';
+export const SAVE_TASK_BUTTON_SELECTOR = '.a8af2163._3d1243b2._352995bd.f9408a0e._56a651f6';
+export const CANCEL_TASK_BUTTON_SELECTOR = '.a8af2163._16b6b062._352995bd.f9408a0e._56a651f6';
+export const LOGIN_BUTTON_SELECTOR = '.nFxHGeI.S7Jh9YX.a8af2163._3d1243b2._3991076f.f9408a0e._8c75067a';
+export const EMAIL_INPUT_SELECTOR = '#element-0';
+export const PASSWORD_INPUT_SELECTOR = '#element-3';
+export const SAVE_TASK_API_URL = 'https://todoist.com/API/v8.7/sync';
