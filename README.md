@@ -16,9 +16,8 @@ Install NPM packages
 
 You need to change your todoist.com credentials
 ```
-TODOIST_USER = 'osmar.ramirez@gmail.com'
-TODOIST_PASSWORD = 'incfiletest'
-
+TODOIST_USER = '<email@example.com>'
+TODOIST_PASSWORD = '<password>'
 ```
 
 To run the project run the command
